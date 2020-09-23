@@ -18,5 +18,5 @@ T. Huynh-The, C. Hua, Q. Pham and D. Kim, "MCNet: An Efficient CNN Architecture 
   pages={811-815},}
 
 We provide the MATLAB code of automatic modulation classification of this paper.
-If there is any error or need to be discussed, please email to [Thien Huynh-The](https://sites.google.com/site/thienhuynhthe/home) via thienht@kumoh.ac.kr 
+If there is any error or need to be discussed, please email to [Thien Huynh-The](https://sites.google.com/site/thienhuynhthe/home) via thienht@kumoh.ac.kr or [Quoc-Viet Pham](https://sites.google.com/view/vietpq90/) via  vietpq@pusan.ac.kr.
 
