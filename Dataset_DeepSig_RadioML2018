@@ -1,0 +1,40 @@
+This dataset is manipulated for running in MATLAB environment
+For the original dataset, please access https://www.deepsig.ai/datasets 
+
+Original paper of dataset: 
+T. J. O’Shea, T. Roy and T. C. Clancy, "Over-the-Air Deep Learning Based Radio Signal Classification," in IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 1, pp. 168-179, Feb. 2018, doi: 10.1109/JSTSP.2018.2797022.
+
+The dataset has 24 modulation classes with 26 SNR levels, from -20 dB to +30 dB, with the step size of 2 dB.
+There are 4096 signals/modulation/SNR, where each signal has 1024 I/Q samples.
+In the dataset, 24 folders are corresponding to 24 modulation classes, remarked from model001 to model024, with the order as follows:
+model001: OOK
+model002: 4ASK
+model003: 8ASK
+model004: BPSK
+model005: QPSK
+model006: 8PSK
+model007: 16PSK
+model008: 32PSK
+model009: 16APSK
+model010: 32APSK
+model011: 64APSK
+model012: 128APSK
+model013: 16QAM
+model014: 32QAM
+model015: 64QAM
+model016: 128QAM
+model017: 256QAM
+model018: AM-SSB-WC
+model019: AM-SSB-SC
+model020: AM-DSB-WC
+model021: AM-DSB-SC
+model022: FM
+model023: GMSK
+model024: OQPSK
+
+The details of radio transmission channel can be found in the original dataset paper.
+Link for download (4 parts)
+https://o365kumoh-my.sharepoint.com/:u:/g/personal/thienht_office_kumoh_ac_kr/EdLpBySxasBGsq1I-2KudVgBGz33Y-TbvcMlfzkiTyJJmQ?e=iRZJJH 
+https://o365kumoh-my.sharepoint.com/:u:/g/personal/thienht_office_kumoh_ac_kr/ESx-NBczMhRAh4luz08VEjABsdJmF0g96MGch0agErZouA?e=0C6EaL 
+https://o365kumoh-my.sharepoint.com/:u:/g/personal/thienht_office_kumoh_ac_kr/Ec5ppyquxchNoGVadslmVpIBwTl7tu9H21BcBgyI-MRWrA?e=4cz5fI
+https://o365kumoh-my.sharepoint.com/:u:/g/personal/thienht_office_kumoh_ac_kr/EfBco7gC4fxJsJ1VzulKJygB6ymnfA02QdcSB29mShfyHA?e=FL2cbX
