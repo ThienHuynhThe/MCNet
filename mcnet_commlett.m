@@ -197,6 +197,7 @@ tempLayers = [
     depthConcatenationLayer(2,"Name","concat_all")
     averagePooling2dLayer([2 8],"Name","global_pool")
     fullyConnectedLayer(24,"Name","fc")
+    dropoutLayer(0.5,"Name","dropout")
     softmaxLayer("Name","softmax")
     classificationLayer("Name","classifier")];
 lgraph = addLayers(lgraph,tempLayers);
