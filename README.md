@@ -5,7 +5,7 @@ Abstract - This letter proposes a cost-efficient convolutional neural network (C
 <img src="https://github.com/ThienHuynhThe/MCNet/blob/master/overall_mcnet_architecture.png" height="204px" width="548px" >
 <img src="https://github.com/ThienHuynhThe/MCNet/blob/master/mblock_mcnet.png" height="371px" width="548px" >
 
-
+How to cite 
 T. Huynh-The, C. Hua, Q. Pham and D. Kim, "MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classification," in IEEE Communications Letters, vol. 24, no. 4, pp. 811-815, April 2020, doi: 10.1109/LCOMM.2020.2968030.
 
 @ARTICLE{mcnet2020CommLett,
